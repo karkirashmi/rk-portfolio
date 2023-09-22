@@ -1,0 +1,29 @@
+
+
+.work-head{
+    color: black;
+    font-size: xx-large;
+    font-weight: 700;
+    font-family: enriqueta;
+}
+.work-subpart{
+    padding: 1% 4%;
+    font-weight: 500;
+    background-color:white;
+}
+
+@keyframes slideIn {
+    0% {
+        transform: translateX(-100%);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+.main{
+        animation-name: slideIn;
+        animation-duration: 3s;
+        animation-timing-function: ease-in-out;
+        animation-delay: 2s;
+        animation-iteration-count: 2;
+    }

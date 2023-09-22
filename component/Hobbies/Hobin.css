@@ -1,0 +1,35 @@
+.hobbi h2 {
+
+    font-weight: 500;
+    font-size: x-large;
+    text-decoration: underline;
+}
+
+
+
+@keyframes slideIn {
+    0% {
+        transform: translateX(-100%);
+    }
+
+    100% {
+        transform: translateX(0%);
+    }
+}
+
+.hobbi {
+    font-family: Charmonman;
+    padding-left: 11%;
+
+    animation-name: slideIn;
+    animation-duration: 2s;
+    animation-timing-function: ease-in-out;
+    animation-delay:  20s;
+    animation-iteration-count: 2;
+}
+
+
+.hobbi h3 {
+    font-weight: 300;
+    font-size: larger;
+}

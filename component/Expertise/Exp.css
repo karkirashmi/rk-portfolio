@@ -1,0 +1,13 @@
+.names{
+    background-color:#efd0d3 ;
+    color: black;
+    box-sizing: border-box;
+    border: 2px solid hsl(355, 71%, 90%);
+    box-shadow: 0 2px 4px #c79399;
+    margin-bottom: 2%;
+    box-shadow: 4px #f8e6e8;
+    margin: 3%;
+    padding: 2%;
+    text-align: center;
+
+}

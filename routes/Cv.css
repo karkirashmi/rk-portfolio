@@ -1,0 +1,21 @@
+.mycv{
+    padding: 4% 25%;
+    font-family: Charmonman;
+    font-size: x-large;
+    font-weight: 300;
+}
+.new-link{
+    font-family: Enriqueta;
+    display: flex;
+    justify-content: space-between;
+}
+.new-link a{
+    box-sizing: border-box;
+    border: 3px solid rgb(40, 121, 86);
+    border-radius: 20%;
+    background-color: rgb(194, 253, 234);
+    text-align: center;
+    color: black;
+    padding: 1% 6%;
+   
+}

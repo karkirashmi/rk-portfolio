@@ -1,0 +1,25 @@
+.Card {
+    border: 1px solid rgb(203, 152, 161);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgb(234, 161, 173);
+    max-width: 600px;
+    margin: 2%;
+    padding: 2% 1%;
+    text-align: center;
+    background-color: rgb(253, 219, 219);
+    color: black;
+    
+  }
+  .upper{
+   display: inline-flex;
+   padding: 0 2%;
+  }
+  .Card a{
+    color: black;
+    font-size: larger;
+  }
+ 
+
+  
+ 

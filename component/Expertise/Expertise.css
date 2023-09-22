@@ -1,0 +1,19 @@
+.head{
+   
+    font-size: xx-large;
+    font-weight: 700;
+    font-family: enriqueta;
+}
+.new{
+    padding: 1% 20%;
+    font-weight: 500;
+}
+
+.list{
+    display: inline-flex;
+    
+    background-color: rgb(130, 75, 84);
+}
+.new{
+   background-color:rgb(255, 240, 240);
+}
